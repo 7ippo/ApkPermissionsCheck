@@ -12,4 +12,7 @@
 
 *To use:*
 
-1. python removeRedundantPermissions.py -xml 1.xml 2.xml ...
+1. python removeRedundantPermissions.py -xml 1.xml 2.xml ...   
+
+
+<font size="4">*for author please email : tingsven@163.com*</font>
